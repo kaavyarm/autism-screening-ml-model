@@ -40,8 +40,8 @@ Models tested:
 
 Run Locally
 1. Clone repo
-   git clone https://github.com/your-username/auticare-ml-web-app.git
-   cd auticare-ml-web-app
+git clone https://github.com/your-username/auticare-ml-web-app.git
+cd auticare-ml-web-app
 
 3. Install dependencies
 pip install -r requirements.txt
