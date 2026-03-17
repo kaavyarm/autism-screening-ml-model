@@ -38,22 +38,10 @@ Models tested:
 - Logistic Regression
 - Random Forest (selected for performance)
 
-Run Locally
-1. Clone repo
-git clone https://github.com/your-username/auticare-ml-web-app.git
-cd auticare-ml-web-app
-
-3. Install dependencies
-pip install -r requirements.txt
-
-4. Run backend
-uvicorn backend.main:app --reload --port 8000
-
-5. Run frontend
-streamlit run frontend/app.py
-
 Disclaimer
+
 This tool is for screening purposes only and is not a medical diagnosis. Always consult a qualified professional.
 
 Motivation
+
 This project was inspired by personal experience navigating autism care systems and aims to make early guidance more accessible for families.
