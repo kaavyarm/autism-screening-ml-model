@@ -40,16 +40,16 @@ Models tested:
 
 Run Locally
 1. Clone repo
-git clone https://github.com/your-username/auticare-ml-web-app.git
-cd auticare-ml-web-app
+   git clone https://github.com/your-username/auticare-ml-web-app.git
+   cd auticare-ml-web-app
 
-2. Install dependencies
+3. Install dependencies
 pip install -r requirements.txt
 
-3. Run backend
+4. Run backend
 uvicorn backend.main:app --reload --port 8000
 
-4. Run frontend
+5. Run frontend
 streamlit run frontend/app.py
 
 Disclaimer
