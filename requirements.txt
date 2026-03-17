@@ -1,0 +1,10 @@
+pandas
+scikit-learn
+matplotlib
+seaborn
+joblib
+fastapi
+uvicorn
+pydantic
+streamlit
+requests
